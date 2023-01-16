@@ -1,5 +1,7 @@
 ### Computer system architecture :computer: 
 # Sudoku solver
+
+###### The language used is Assembly x86 AT&T syntax.
 **Assignment**: 
 Given a partially filled 9×9 2D array, the goal is to assign digits (from 1 to 9) to the empty cells so that every row, column, and subgrid of size 3×3 contains exactly one instance of the digits from 1 to 9. The solved puzzle will be written in an output file.
 
